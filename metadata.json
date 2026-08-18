@@ -1,0 +1,7 @@
+{
+  "name": "SmartEnergy Aesthetic Dashboard",
+  "description": "Minimalist, aesthetic smart energy web app with edge telemetry, AI recommendations, live consumption tracking, 3D smart room visualizer, and sample daily energy spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
